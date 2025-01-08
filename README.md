@@ -23,4 +23,4 @@ This project demonstrates the use of Phaser.js for game development, handling in
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone git@github.com:Pritesh2004/Balloon-Pop.git
